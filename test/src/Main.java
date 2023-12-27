@@ -26,5 +26,6 @@ public class Main {
         System.out.println("clicks of advertiser2: " + advertiser2.getClicks());
         System.out.println("the total clicks in system: " + Advertiser.getTotalClicks());
         System.out.println("help:\n" + Advertiser.help());
+        System.out.println("slm");
     }
 }
